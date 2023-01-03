@@ -31,3 +31,9 @@ Position BinarySearch(List L, ElementType X)
     }
     return NotFound;
 }
+
+int main()
+{
+    printf("hehe\n");
+    return 0;
+}
