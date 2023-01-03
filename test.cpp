@@ -35,5 +35,6 @@ Position BinarySearch(List L, ElementType X)
 int main()
 {
     printf("hehe\n");
+    printf("wei\n");
     return 0;
 }
