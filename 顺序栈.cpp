@@ -1,5 +1,5 @@
 #define _CRT_SECURE_NO_WARNINGS 1
-#define MaxSize 10                  //定义栈中元素的最大个数
+#define MaxSize 10                  //定义栈中元素的最大个数。
 typedef struct
 {
 	ElemType date[MaxSize];//静态数组存放栈中元素
