@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 #include<stdio.h>
-#define MaxSize 10//定义队列中元素的最大个数
+#define MaxSize 10//定义队列中元素的最大个数。
 typedef struct
 {
 	ElemType date[MaxSize];//用静态数组存放队列元素
