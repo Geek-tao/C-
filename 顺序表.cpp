@@ -4,7 +4,7 @@
 #define MaxSize 10
 typedef struct
 {
-	int date[MaxSize];//用静态的数组存放数据元素
+	int date[MaxSize];//用静态的数组存放数据元素。
 	int length;
 }SqList;//顺序表的类型定义
 
